@@ -4,7 +4,8 @@ There will be difrrent Datasets with the same algorithm and see if it will fit t
 
 # Data Set
 <ol>
-  <li> <a href="https://www.kaggle.com/c/nlp-getting-started/overview">Real or Not? NLP with Disaster Tweets</a>  </li>
+  <li> <a href="https://www.kaggle.com/c/nlp-getting-started/overview">Real or Not? NLP with Disaster Tweets</a> 
+ <a href="https://colab.research.google.com/drive/1NbeK69ra5ZNqsVQOpC0w0AY80UCPgnns">:  Colaboratory NoteBook </a></li> 
   <li> <a href="http://jmcauley.ucsd.edu/data/amazon/">Amazon product data</a> (working on) </li>
 </ol>
 
