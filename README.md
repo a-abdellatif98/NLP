@@ -1,6 +1,6 @@
 # NLP
 
-There will be difrrent Datasets with the same algorithm and see if it will fit to them with some modefication or it is just for the first one 
+There will be difrrent Datasets with the same algorithm and see if it will fit to them with some modefication or it fits and study Coursera Specialization in NLP 
 
 # Data Set
 <ol>
@@ -10,5 +10,13 @@ There will be difrrent Datasets with the same algorithm and see if it will fit t
 </ol>
 
 
-# THe Algorithm
-<a href="https://harish3110.github.io/through-tinted-lenses/natural%20language%20processing/sentiment%20analysis/2020/06/27/Introduction-to-NLP-using-Fastai.html">Introduction to NLP using Fastai</a> 
+# The Algorithm
+<ol>
+  <li><a href="https://harish3110.github.io/through-tinted-lenses/natural%20language%20processing/sentiment%20analysis/2020/06/27/Introduction-to-NLP-using-Fastai.html">Introduction to NLP using Fastai</a> </li>
+</ol>
+
+
+# <a href="https://www.coursera.org/specializations/natural-language-processing">Natural Language Processing Specialization </a> 
+<ol>
+  <li> <a href="https://github.com/a-abdellatif98/NLP/tree/master/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces">Natural Language Processing with Classification and Vector Spaces
+</a> </li>
